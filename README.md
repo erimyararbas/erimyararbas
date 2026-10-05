@@ -9,7 +9,7 @@ Mathematics Engineering graduate (Yıldız Technical University, 2026) based in 
 - Leading the company's migration to ERPNext and building custom Frappe apps.
 
 ### Featured project
-**[Etüt Platformu](https://etut-platformu.vercel.app)** — multi-tenant study-session booking & academic tracking SaaS for schools: six user roles, invite-code onboarding, mobile-first UI.
+**[Etüt Platformu](https://etut-platformu.vercel.app)** — multi-tenant study-session booking & academic tracking SaaS for schools: six user roles, invite-code onboarding, mobile-first UI. · [Source code](https://github.com/erimyararbas/etut-platformu)
 `Next.js` `React` `TypeScript` `Supabase (Postgres)` `Tailwind` `Zod` `Vitest` `Playwright` `Vercel`
 
 ### Toolbox
